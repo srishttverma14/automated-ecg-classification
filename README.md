@@ -27,7 +27,6 @@ The application is deployed on Streamlit Community Cloud and can be accessed her
 - [Test with sample ECG data](#test-with-sample-ecg-data)
 - [Run the application](#run-the-application)
 - [Deploy with Streamlit Community Cloud](#deploy-with-streamlit-community-cloud)
-- [Troubleshooting](#troubleshooting)
 - [Limitations](#limitations)
 - [Dataset reference](#dataset-reference)
 - [License](#license)
